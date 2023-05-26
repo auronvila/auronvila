@@ -5,15 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auronvila&label=Profile%20views&color=0e75b6&style=flat" alt="auronvila" /> </p>
 
-- 🌱 I’m currently learning -->**.Net(Core)**
+
+
+<h3 align="center">About me</h3>
+
+<p align="left">As a dedicated Developer, I am passionate about my work and consistently strive to update my knowledge every day. With extensive experience in React and TypeScript, I have successfully built numerous websites using three.js. I am equally proficient in backend frameworks such as Nest.js, Node.js, and .Net (Core), and have utilized Azure as a reliable deployment server. Additionally, I possess expertise in various other frameworks, including Python, Pug, Tailwind CSS, Selenium automation, database management, and Linux. I am well-versed in version control with Git, and proficient in tools like Postman and various Adobe applications. Furthermore, I am confident in 3D art and animation using Blender, allowing me to create visually captivating and immersive experiences. My programming skills extend to C#, enabling me to develop robust and scalable applications. I am also currently expanding my knowledge in Blockchain and Solidity, as I delve into the exciting world of decentralized applications. With my diverse skill set and continuous learning, I am equipped to tackle a wide range of development projects with efficiency, creativity, and a keen eye for aesthetics.</p>
+
 
 - 💬 Ask me about --> Any :)
 
 - 📫 How to reach me **auronvila1121@gmail.com**
-
-<h3 align="center">About me</h3>
-
-<p align="left">As a dedicated Developer, I am passionate about my work and consistently strive to update my knowledge every day. With extensive experience in React and TypeScript, I have successfully built numerous websites using three.js. I am equally proficient in backend frameworks such as Nest.js, Node.js, and .Net (Core), and have utilized Azure as a reliable deployment server. Additionally, I possess expertise in various other frameworks, including Python, Pug, Tailwind CSS, Selenium automation, database management, and Linux. I am well-versed in version control with Git, and proficient in tools like Postman and various Adobe applications. Furthermore, I am confident in 3D art and animation using Blender, allowing me to create visually captivating and immersive experiences. My programming skills extend to C#, enabling me to develop robust and scalable applications. Moreover, I am experienced in utilizing Docker for containerization and deployment. With my diverse skill set, I am equipped to tackle a wide range of development projects with efficiency, creativity, and a keen eye for aesthetics.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
