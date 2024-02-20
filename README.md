@@ -14,7 +14,7 @@
 
 - 💬 Ask me about --> Any :)
 
-- 📫 How to reach me **auronvila.dev@gmail.com ----- auron3d@gmail.com**
+- 📫 How to reach me **auronvila.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
