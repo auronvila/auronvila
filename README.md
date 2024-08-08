@@ -16,10 +16,11 @@
 
 - 📫 How to reach me **auronvila.dev@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
+
 <p align="left">
-<a href="https://linkedin.com/in/auron-vila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="auron vila" height="30" width="40" /></a>
-</p>
+<!-- <a href="https://linkedin.com/in/auron-vila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="auron vila" height="30" width="40" /></a>
+</p> -->
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=auronvila&show_icons=true&locale=en&layout=compact" alt="auronvila" /></p>
