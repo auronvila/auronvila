@@ -1,6 +1,6 @@
 ![MasterHead](https://th.bing.com/th/id/R.70a914d27d2edb57fe8349ce61da1f7d?rik=d2SOSAM%2fuz6egg&pid=ImgRaw&r=0)
 <h1 align="center">Hi  👋,  I'm Auron Vila</h1> 
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auronvila&label=Profile%20views&color=0e75b6&style=flat" alt="auronvila" /> </p>
