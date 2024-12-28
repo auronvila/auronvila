@@ -10,7 +10,7 @@
 <h3 align="center">About me</h3>
 
 <p align="left">As a Software Engineer, I specialize in building core functionalities and designing scalable, efficient systems. My expertise includes frontend technologies like React and TypeScript, alongside powerful backend frameworks such as Nest.js, Node.js, and .NET Core. I’ve recently expanded my skill set with Go, enabling me to tackle performance-critical and backend-intensive projects.
-I am proficient in Python for scripting and automation, as well as Tailwind CSS for creating dynamic web interfaces. My experience includes Selenium for test automation, database management, and Linux-based system administration. With strong command over Git and tools like Postman, I ensure streamlined version control and API development.
+I am proficient in Python for scripting and automation, as well as Tailwind CSS for creating dynamic web interfaces. My experience includes database management ability and Linux-based system administration. With strong command over Git and tools like Postman, I ensure streamlined version control and API development.
 Currently, I am delving deeper into Blockchain and Solidity, developing decentralized applications that bridge the gap between traditional and emerging technologies. My continuous learning and passion for system-level engineering drive me to solve complex problems and build impactful software solutions.</p>
 
 
