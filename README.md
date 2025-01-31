@@ -13,7 +13,7 @@
 
 I am well-versed in mobile application development, creating robust, user-friendly native applications that integrate seamlessly with backend systems. My technical toolbox also includes Python for scripting and automation, Tailwind CSS for crafting dynamic interfaces, and Linux-based system administration, ensuring reliable and efficient operations. Proficient in Git, Postman, and database management, I streamline development workflows and foster seamless collaboration.
 
-Passionate about innovation, I am expanding into Blockchain and Solidity, building decentralized applications that bridge the gap between traditional software systems and emerging technologies. My vision is to merge cutting-edge IoT and electronics development with my software expertise, enabling smarter, more connected solutions that transform industries.
+Passionate about innovation, I expanded into Blockchain and Solidity, building decentralized applications that bridge the gap between traditional software systems and emerging technologies. My vision is to merge cutting-edge IoT and electronics development with my software expertise, enabling smarter, more connected solutions that transform industries.
 
 Driven by continuous learning and a deep passion for solving complex problems, I aim to stand out as an engineer who bridges hardware, software, and infrastructure. Whether it’s delivering production-ready systems, architecting scalable APIs, or creating future-proof IoT solutions, I thrive on building technology that makes an impact.</p>
 
